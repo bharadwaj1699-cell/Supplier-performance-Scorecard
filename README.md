@@ -40,4 +40,4 @@ This project is an interactive Power BI dashboard built to analyze supplier perf
 ![Dashboard](Screenshot%202026-08-06%20112908.png)
 
 ## Author
-**Nachiketha D**
+**Nachiketha DInesh Vadgoor**
